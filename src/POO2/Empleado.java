@@ -131,7 +131,7 @@ public class Empleado {
     /**
      * Muestra en consola el total de empleados creados hasta el momento.
      */
-    public static void mostrarTotalEmpleados() {
+    public static void mostrarTotalEmpleados() { 
         System.out.println("Total empleados: " + Empleado.totalEmpleados);
     }
 }
